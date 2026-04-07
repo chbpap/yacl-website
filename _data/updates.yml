@@ -2,6 +2,13 @@
 # Fields: date (YYYY-MM-DD), text, url (optional), tag (paper/award/talk/news)
 
 - date: "2026-04-06"
+ tag: paper
+ text: |
+ Two papers by YACL members were accepted to [EUROCRYPT 2026](https://eurocrypt.iacr.org/2026/):
+ - [Dynamic zk-SNARKS (with Applications to zk-SNARKs and ICV)](https://eprint.iacr.org/2024/1566)
+ - [Fast and Efficient Perfectly Secure Network-Agnostic Secure Computation] (https://eprint.iacr.org/2026/655)
+
+- date: "2026-04-06"
   tag: paper
   text: |
     One paper by YACL members was accepted to [ACM SIGMETRICS '26](https://www.sigmetrics.org/sigmetrics2026):
